@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "theme": "kendall"
+  },
+  "basics": {
+    "name": "Nay Lin Myat",
+    "label": "Flutter Developer",
+    "image": "https://raw.githack.com/naylinmyat/Photo-Link-Generating/master/Nay'sCV.JPG",
+    "summary": "I'm a flutter developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focused developer who prioritizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+    "website": "https://naylin.me",
+    "email": "naylinmyat04@gmail.com",
+    "location": {
+      "city": "Chiang Mai,Thailand",
+      "countryCode": "CNX"
+    },
+    "profiles": [
+      {
+        "username": "Nay Lin Myat",
+        "url": "https://naylin.me",
+        "network": "Website"
+      },
+      {
+        "url": "https://github.com/naylinmyat",
+        "username": "Nay Lin Myat",
+        "network": "Github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2023-04-01",
+      "startDate": "2023-01-01",
+      "area": "Information Technology Professionals Examination Council (ITPEC)",
+      "studyType": "IT Passport Exam (IP)"
+    },
+    {
+      "endDate": "2023-05-01",
+      "startDate": "2023-10-01",
+      "area": "Information Technology Professionals Examination Council (ITPEC)",
+      "studyType": "Fundamental Information Technology Engineer Examination (FE)"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Flutter"
+      ],
+      "level": "Mid",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Ruby On Rails", "MySQL"],
+      "level": "Junior",
+      "name": "Backend"
+    }
+  ],
+  "work": [
+    {
+      "website": "https://digithouse.co/",
+      "name": "Digit House",
+      "position": "Web Developer,(Javascript,React),Intern",
+      "startDate": "2022-06-01",
+      "highlights": ["React", "Javascript", "HTML", "CSS", "Tailwind"]
+    },
+    {
+      "website": "https://www.cybermissions.co.jp/",
+      "name": "Cyber Missions Myanmar",
+      "location": "Myanmar",
+      "position": "Flutter Developer (Intern)",
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-31",
+      "highlights": [
+        "Flutter", "Docker", "Rails"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
+}
